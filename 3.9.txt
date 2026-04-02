@@ -17,27 +17,6 @@
 - Fixed Quick Settings lag when having too many notifications
 - [Source changes](https://t.me/lunaris_update/209)
 
----
-
-## ⚠️ Important Notes
-
-- GApps are included by default
-- Fenrir is not included by default
-- Play Integrity: **Strong** with Fenrir (as of April 2, 2026)
-- **Clean flash required for 2a Plus (PacmanPro)**
-- Dirty flash/local update is supported if you are currently on Lunaris v3.8
-
----
-
-## 🏆 Credits
-
-**Development:** @FanDeMaraiste92, @arteryring1, @lordwitcher  
-**Guidance:** @OmnusNight  
-**Testing:** Yashwant, @naprolomchik, @evinsen  
-**Builder:** @TwistedVis518
-
----
-
 **Support Channels:**  
 📢 Updates: [@NothingPhone2aUpdates](https://t.me/NothingPhone2aUpdates)  
 💬 Chat: [@NothingPhone2a](https://t.me/NothingPhone2a)
