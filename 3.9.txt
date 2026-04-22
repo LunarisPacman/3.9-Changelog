@@ -1,21 +1,28 @@
 # Lunaris v3.9 | Android 16 QPR2
 
-**Release Date:** April 2, 2026  
+**Release Date:** April 22, 2026  
 **Supported Devices:** Nothing Phone (2a) [Pacman] | Nothing Phone (2a) Plus [PacmanPro]
 
 ---
 
 ## 🆕 What's New
 
-- Improved haptics for a crisper feel
-- Improved app opening/closing animations and overall speed
-- Marginally improved gaming performance
-- Included ViperFx for better audio quality
-- Fixed charging threshold
-- iOS emojis by default
-- Fixed face unlock reliability issue
+- Toned down haptic feedbad to better match stock nos for a more balanced expereience 
+- Changed app closing and openeing animations for both pixel launcher and lunaris launcher for a more premium feel 
+- Improved the look and functionality of Dynamic Bar
+- Added systemwide emoji selector
+- Added device as webcam option when connecting to pc via cable
+- Fixed weird framedrops during games 
+- Added toggle for animation overrride 
+- Fixed issue with prebuilt fonts
+- Fixed wrong font weight in quicksettings 
+- Added deptheffect wallpaper
 - Fixed Quick Settings lag when having too many notifications
-- [Source changes](https://t.me/lunaris_update/209)
+- [Source changes](https://t.me/lunaris_dailyUP/752) Scroll till April 20th "pushed" message
+
+Most of these changes have been now pushed to source after i added them manually and sent it to the lead dev of lunaris..
+
+
 
 **Support Channels:**  
 📢 Updates: [@NothingPhone2aUpdates](https://t.me/NothingPhone2aUpdates)  
